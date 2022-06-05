@@ -1,12 +1,14 @@
-## Hi there 👋
+# SWEETCASE Production
+Collaboration of Bakhwa Project(Music, Creation) x Cobalto(Develoption)
+> You can see only Develoption project because of tendency of github. Bakhwa Project is being underconstructed in other site.
 
-<!--
+## Web Applications
+### PROJECT Microcloudchip
+Microcloudchip is application that service cloud system in 'YOUR PC'
 
-**Here are some ideas to get you started:**
+|name|status|version|start date|Frameworks|Specification|
+|---|---|---|---|---|---|
+|Microcloudchip||![](https://img.shields.io/badge/-terminated-red?style=flat-square)|2020.12.|![](https://img.shields.io/badge/Django(pure)-092E20?style=style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|Basic of File/Directory CRUD, Session Login|
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Middleware Applications
+### PROJECT SweetMemories
