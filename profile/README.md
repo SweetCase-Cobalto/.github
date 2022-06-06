@@ -6,7 +6,7 @@ Collaboration of Bakhwa Project(Music, Creation) x Cobalto(Develoption)
 ### PROJECT Microcloudchip
 Microcloudchip is application that service cloud system in 'YOUR PC'
 
-|name|generation|status|version|start date|Frameworks|Specification|
+|Name|Generation|Status|Version|First release|Frameworks|Specification|
 |---|---|---|---|---|---|---|
 |[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.4.0 Alpha1|2020.12.|![](https://img.shields.io/badge/Django(pure)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|Basic of File/Directory CRUD, Session Login, Docker Imaged Application|
 |[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.1.0 Alpha|2021.09.|![](https://img.shields.io/badge/Django(DRF)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|Setting storage size, JWT Key Login, Sharing File/Directory, Restful Server, Available to use external resource(DB, Storage)|
@@ -17,7 +17,7 @@ Microcloudchip is application that service cloud system in 'YOUR PC'
 
 SweetMemories is In-Memory Database Project Like "Redis"
 
-|name|status|version|start date|Frameworks|Specification|
+|Name|Status|Version|First release|Frameworks|Specification|
 |---|---|---|---|---|---|
 |[SKVS](https://github.com/Vector-7/SKVS)|Terminated|0.2.0 Alpha2|2019.08.|![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|Basic of Data CRUD that Key-Value Structure, Multi-thread Computing, [Support Libraries](https://github.com/Vector-7/SKVS-Library)|
 |GraphPipe|Planning|Not yet|2023|![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)|Graphed Data CRUD, Support Libraries, Graphed Task CRUD and tasking by Graph Algorithms|
