@@ -10,7 +10,7 @@ Microcloudchip is application that service cloud system in 'YOUR PC'
 |---|---|---|---|---|---|---|
 |[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.4.0 Alpha1|2020.12.|![](https://img.shields.io/badge/Django(pure)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|Basic of File/Directory CRUD, Session Login, Docker Imaged Application|
 |[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.1.0 Alpha|2021.09.|![](https://img.shields.io/badge/Django(DRF)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|Setting storage size, JWT Key Login, Sharing File/Directory, Restful Server, Available to use external resource(DB, Storage)|
-|CloudModular|2.0|Implementing|Not yet|2022.08.(Expected)|![](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|File/Directory Search Many Options(Tags, contained word, file type etc...), Customed Open-API, Sending data between users|
+|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|Implementing|Not yet|2022.08.(Expected)|![](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|File/Directory Search Many Options(Tags, contained word, file type etc...), Customed Open-API, Sending data between users|
 
 ## Middleware Applications
 ### PROJECT SweetMemories
