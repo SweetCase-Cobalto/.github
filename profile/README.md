@@ -1,21 +1,31 @@
 # SWEETCASE Production
-Collaboration of Bakhwa Project(Music, Creation) x Cobalto(Develoption)
-> You can see only Develoption project because of tendency of github. Bakhwa Project is being underconstructed in other site.
+창작과 IT관련 분야를 다루는 프로젝트입니다. (창작부분은 현재 공사중에 있습니다.)
 
 ## Web Applications
 ### PROJECT Microcloudchip
-Microcloudchip is application that service cloud system in 'YOUR PC'
+직접 설치하는 NAS Server용 Cloud Application
 
 |Name|Generation|Status|Version|First release|Frameworks|Specification|
 |---|---|---|---|---|---|---|
-|[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.4.0 Alpha1|2020.12.|![](https://img.shields.io/badge/Django(pure)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|Basic of File/Directory CRUD, Session Login, Docker Imaged Application|
-|[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.1.0 Alpha|2021.09.|![](https://img.shields.io/badge/Django(DRF)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|Setting storage size, JWT Key Login, Sharing File/Directory, Restful Server, Available to use external resource(DB, Storage)|
-|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|2022.08.03|![](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|File/Directory Search Many Options(Tags, contained word, file type etc...), Customed Open-API, Sending data between users|
+|[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.4.0 Alpha1|2020.12.|![](https://img.shields.io/badge/Django(pure)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|기초적인 파일/디렉토리 CRUD, 세션 체제 로그인, 도커 컨테이너 어플리케이션|
+|[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.1.0 Alpha|2021.09.|![](https://img.shields.io/badge/Django(DRF)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|스토리지 제한 추가, JWT 체제 로그인, 파일/디렉토리 공유 기능 추가, Restful, 외부/내부 리소스 취사선택 가능(스토리지, DB)|
+|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|2022.08.03|![](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|다양한 옵션의 파일/디렉토리 탐색(Tags, 연관 검색어, 즐겨찾기 등...), OPEN-API구축(진행중), 사용자 간의 쌍방향 소통(진행중)|
+
+### Resolver Project
+
+평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
+
+|Type|Name|Summary|Techs|
+|---|---|---|---|
+|Main|[backend-server](https://github.com/SweetCase-Cobalto/resolver)|메인 백엔드 서버|![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)|
+|Main|[web-frontend](https://github.com/SweetCase-Cobalto/resolver-web)|메인 웹페이지|![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|
+|Service|[PCFL](https://github.com/Vector-7/PCFL)|FL Studio에서의 Midi Import를 위한 CC64(피아노 서스테인)간격 교정기|![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)|
+
 
 ## Middleware Applications
 ### PROJECT SweetMemories
 
-SweetMemories is In-Memory Database Project Like "Redis"
+Redis 스타일의 MiddleWare Project 입니다.
 
 |Name|Status|Version|First release|Frameworks|Specification|
 |---|---|---|---|---|---|
