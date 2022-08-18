@@ -15,6 +15,8 @@
 
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
 
+[https://resolver.sweetcase.kr](https://resolver.sweetcase.kr)
+
 |Type|Name|Summary|Techs|
 |---|---|---|---|
 |Main|[backend-server](https://github.com/SweetCase-Cobalto/resolver)|메인 백엔드 서버|![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)|
