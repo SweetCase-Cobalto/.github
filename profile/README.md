@@ -11,8 +11,7 @@
 |[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.1.0 Alpha|2021.09.|![](https://img.shields.io/badge/Django(DRF)-092E20?style=flat-square&logo=django&logoColor=green) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|스토리지 제한 추가, JWT 체제 로그인, 파일/디렉토리 공유 기능 추가, Restful, 외부/내부 리소스 취사선택 가능(스토리지, DB)|
 |[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|2022.08.03|![](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)|다양한 옵션의 파일/디렉토리 탐색(Tags, 연관 검색어, 즐겨찾기 등...), OPEN-API구축(진행중), 사용자 간의 쌍방향 소통(진행중)|
 
-### Resolver Project
-
+### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
 
 [https://resolver.sweetcase.kr](https://resolver.sweetcase.kr)
