@@ -24,11 +24,11 @@
 
 
 ## Middleware Applications
-### PROJECT SweetMemories
+### PROJECT OS-flower
 
-Redis 스타일의 MiddleWare Project 입니다.
+미들웨어 또는 운영체제 관련 프로젝트입니다.
 
 |Name|Status|Version|First release|Frameworks|Specification|
 |---|---|---|---|---|---|
 |[SKVS](https://github.com/Vector-7/SKVS)|Terminated|0.2.0 Alpha2|2019.08.|![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|Basic of Data CRUD that Key-Value Structure, Multi-thread Computing, [Support Libraries](https://github.com/Vector-7/SKVS-Library)|
-|STree|Planning|Not yet|2023|![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)|Tree-styled in-memory-system|
+|Qtech|Planning|Not yet|2023|![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)|비동기 큐 클론 프로젝트|
