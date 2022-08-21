@@ -5,11 +5,11 @@
 ### PROJECT Microcloudchip
 직접 설치하는 NAS Server용 Cloud Application
 
-|Name|Generation|Status|First release|Last release|First Relase Date|Frameworks|Specification|
-|---|---|---|---|---|---|---|---|
-|[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|기초적인 파일/디렉토리 CRUD, 세션 체제 로그인, 도커 컨테이너 어플리케이션|
-|[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|스토리지 제한 추가, JWT 체제 로그인, 파일/디렉토리 공유 기능 추가, Restful, 외부/내부 리소스 취사선택 가능(스토리지, DB)|
-|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|0.1.0-beta1|2022.08.03|FastAPI/ReactJS|다양한 옵션의 파일/디렉토리 탐색(Tags, 연관 검색어, 즐겨찾기 등...), OPEN-API구축(진행중), 사용자 간의 쌍방향 소통(진행중)|
+|Name|Generation|Status|First release|Last release|First Relase Date|Frameworks|
+|---|---|---|---|---|---|---|
+|[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
+|[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
+|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|0.1.0-beta1|2022.08.03|FastAPI/ReactJS|
 
 ### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
