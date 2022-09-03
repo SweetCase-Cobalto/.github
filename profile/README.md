@@ -21,7 +21,7 @@
 
 |Name|Status|First release|Lastest release|First Relase Date|Frameworks|
 |---|---|---|---|---|---|
-|Memotic|planning|-|-|2022.12|ExpressJS/ElectronJS/**GraphQL**|
+|Memotic|planning|-|-|2022.12|???/ElectronJS/**GraphQL**|
 
 ### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
