@@ -5,12 +5,23 @@
 ### PROJECT MyEchosystem
 돈의 제약에 받지 말고 직접 설치해서 제약 없이 써보자!
 
+#### MICROCLOUDCHIP
+
+직접 설치해서 사용하는 클라우드 서비스!
+
 |Name|Status|First release|Lastest release|First Relase Date|Frameworks|
 |---|---|---|---|---|---|
 |[Microcloudchip (Microcloudchip 1.0)](https://github.com/SweetCase-Cobalto/MicroCloudChip)|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
 |[Microcloudchip-NATURAL (Microcloudchip 1.5)](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
 |[CloudModular (Microcloudchip 2.0)](https://github.com/SweetCase-Cobalto/cloudmodular)|**activating**|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
-|Memotic|planning|-|-|2022.11.01|ExpressJS/ElectronJS|
+
+#### MEMOTIC
+
+윈도우 앱 스티키 노트 툭하면 동기화 안된다고 난리쳐서 그냥 내가 만들어서 쓸련다 ㄹㅇ 
+
+|Name|Status|First release|Lastest release|First Relase Date|Frameworks|
+|---|---|---|---|---|---|
+|Memotic|planning|-|-|???|???/ElectronJS/**GraphQL**|
 
 ### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
