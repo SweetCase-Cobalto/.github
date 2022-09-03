@@ -2,14 +2,15 @@
 창작과 IT관련 분야를 다루는 프로젝트입니다. (창작부분은 현재 공사중에 있습니다.)
 
 ## Web Applications
-### PROJECT Microcloudchip
-직접 설치하는 NAS Server용 Cloud Application
+### PROJECT MyEchosystem
+돈의 제약에 받지 말고 직접 설치해서 제약 없이 써보자!
 
-|Name|Generation|Status|First release|Lastest release|First Relase Date|Frameworks|
-|---|---|---|---|---|---|---|
-|[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
-|[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
-|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
+|Name|Status|First release|Lastest release|First Relase Date|Frameworks|
+|---|---|---|---|---|---|
+|[Microcloudchip (Microcloudchip 1.0)](https://github.com/SweetCase-Cobalto/MicroCloudChip)|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
+|[Microcloudchip-NATURAL (Microcloudchip 1.5)](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
+|[CloudModular (Microcloudchip 2.0)](https://github.com/SweetCase-Cobalto/cloudmodular)|**activating**|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
+|Memotic|planning|-|-|2022.11.01|ExpressJS/ElectronJS|
 
 ### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
