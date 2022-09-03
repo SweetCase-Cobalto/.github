@@ -9,11 +9,11 @@
 
 직접 설치해서 사용하는 클라우드 서비스
 
-|Name|Status|First release|Lastest release|First Relase Date|Frameworks|
-|---|---|---|---|---|---|
-|[Microcloudchip (Microcloudchip 1.0)](https://github.com/SweetCase-Cobalto/MicroCloudChip)|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
-|[Microcloudchip-NATURAL (Microcloudchip 1.5)](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
-|[CloudModular (Microcloudchip 2.0)](https://github.com/SweetCase-Cobalto/cloudmodular)|**activating**|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
+|Name|Generation|Status|First release|Lastest release|First Relase Date|Frameworks|
+|---|---|---|---|---|---|---|
+|[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
+|[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
+|[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
 
 #### MEMOTIC
 
