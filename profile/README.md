@@ -7,7 +7,7 @@
 
 #### MICROCLOUDCHIP
 
-직접 설치해서 사용하는 클라우드 서비스!
+직접 설치해서 사용하는 클라우드 서비스
 
 |Name|Status|First release|Lastest release|First Relase Date|Frameworks|
 |---|---|---|---|---|---|
