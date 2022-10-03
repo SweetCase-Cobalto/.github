@@ -1,5 +1,5 @@
-# SWEETCASE Production
-창작과 IT관련 분야를 다루는 프로젝트입니다. (창작부분은 현재 공사중에 있습니다.)
+# SWEETCASE Constructive
+![간판](간판.png)
 
 ## Web Applications
 ### PROJECT MyEchosystem
