@@ -26,7 +26,7 @@
 ### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
 
-[https://resolver.sweetcase.kr](https://resolver.sweetcase.kr)
+[https://resolver.sweetcase.kr(현재 백엔드 서버 재배치를 위해 임시 중단)](https://resolver.sweetcase.kr)
 
 |Type|Name|Summary|Techs|
 |---|---|---|---|
