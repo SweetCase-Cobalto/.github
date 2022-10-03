@@ -1,5 +1,5 @@
 # SWEETCASE Constructive
-![간판](간판.png)
+![간판](profile/간판.png)
 
 ## Web Applications
 ### PROJECT MyEchosystem
