@@ -1,4 +1,7 @@
 # SWEETCASE Constructive
+
+### 데스크탑 망가져서 새로 맞출 때 까지(내년 1월 이내) 잠정 중단.
+
 ![간판](profile/간판.png)
 
 ## Web Applications
