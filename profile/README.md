@@ -18,13 +18,13 @@
 |[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
 |[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|**activating**|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
 
-#### MEMOTIC
+### PROJECT Reminiscence
 
 윈도우 앱 스티키 노트 툭하면 동기화 안된다고 난리쳐서 그냥 내가 만들어서 쓸련다 ㄹㅇ 
 
 |Name|Status|First release|Lastest release|First Relase Date|Frameworks|
 |---|---|---|---|---|---|
-|Memotic|planning|-|-|2022.12|Typescript/ExpressJS/ElectronJS|
+|Memotic|planning|-|-|2023.02|Typescript/ExpressJS/ElectronJS|
 
 ### PROJECT Resolver
 평소에 불편한 점을 해결하기 위해 만든 알고리즘들을 배포하는 웹 프로젝트 입니다.
