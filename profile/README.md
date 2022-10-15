@@ -39,11 +39,12 @@
 
 
 ## Middleware Applications
-### PROJECT OS-flower
+### PROJECT OScase
 
 미들웨어 또는 운영체제 관련 프로젝트입니다.
 
 |Name|Status|Version|First release|Frameworks|Specification|
 |---|---|---|---|---|---|
 |[SKVS](https://github.com/Vector-7/SKVS)|Terminated|0.2.0 Alpha2|2019.08.|![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|Basic of Data CRUD that Key-Value Structure, Multi-thread Computing, [Support Libraries](https://github.com/Vector-7/SKVS-Library)|
-|Varage|Planning|Not yet|2023|???|???|
+|Baobab|Planning|Not yet|2023|![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)|Redis 클론 프로젝트이자 SKVS 후속작, Tree형태의 자료구조 지원|
+|Varage|Planning|Not yet|2023-2024|???|멀티프로그래밍을 위한 전역변수 관리 시스템|
