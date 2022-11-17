@@ -15,7 +15,7 @@
 |[Microcloudchip](https://github.com/SweetCase-Cobalto/MicroCloudChip)|1.0|Terminated|0.1.0|0.4.0 Alpha1|2020.12.|DJango(Pure)/JQuery|
 |[Microcloudchip-NATURAL](https://github.com/SweetCase-Cobalto/microcloudchip-natural)|1.5|Terminated|0.0.1|0.1.0-alpha|2021.09.|DJango(DRF)/ReactJS|
 |[CloudModular](https://github.com/SweetCase-Cobalto/cloudmodular)|2.0|Terminated|0.1.0-alpha1|0.1.2|2022.08.03|FastAPI/ReactJS|
-|CloudModular NATURAL|2.5|Planning|-|-|2023|(FastAPI or ExpressJS)/ReactJS|
+|CloudModular NATURAL|2.5|Planning|-|-|2023|golang(gin)/ReactJS|
 
 #### Dev Tools
 
