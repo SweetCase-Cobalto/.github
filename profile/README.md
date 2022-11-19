@@ -1,4 +1,6 @@
-# SWEETCASE Constructive
+# SWEETCASE Colbalto (Teriminated)
+
+[New Organization](https://github.com/sweetcase-constructive)
 
 ![간판](profile/간판.png)
 
